@@ -1,0 +1,37 @@
+#form h1{
+    color: red;
+    margin-top: 50px;
+}
+#form{
+    margin-top: 100px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(34, 32, 32);
+    
+}
+#form-area{
+    margin-top: 50px;
+}
+
+
+#transaction-area{
+    display: none;
+}
+#transaction-area h1{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.status{
+    padding: 20px;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: red;
+}
+.withdraw{
+    background-color: rgb(162, 0, 255);
+}
+.balance{
+    background-color: rgb(32, 232, 119);
+}
